@@ -26,6 +26,7 @@ HTML/Resume Assignment
 ### [Week 3 - Introduction to HTML (Jan 29th-Feb 1st)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
 ### [Week 4 - HTML Cont. (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
+HTML Quiz Feb. 7 Chapters 1 - 6 [HTML Tags](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
 ### [Week 5 - CSS (Feb 12th- 15th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 

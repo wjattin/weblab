@@ -12,6 +12,9 @@ Github Setup Assignment
 ### To do this week
 HTML/Resume Assignment
 
+## [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
+
+
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
 ## Calendar
@@ -48,4 +51,3 @@ HTML/Resume Assignment
 
 # Resources
 
-## [Homework Assignments](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)

@@ -28,7 +28,7 @@ HTML/Resume Assignment
 
 HTML Quiz Feb. 7 Chapters 1 - 6 [HTML Tags](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
-[HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
+Homework [HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
 ### [Week 5 - CSS (Feb 12th- 15th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 

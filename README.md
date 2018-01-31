@@ -6,6 +6,11 @@
 
 CIM111-34 Wolfson 2046 William Jattin MoWe 12:20-1:35PM [Class Site samples](http://wjattin.github.io)
 
+### Past Assignments
+Github Setup Assignment 
+
+### To do this week
+HTML/Resume Assignment
 
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 

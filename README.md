@@ -6,8 +6,7 @@
 
 CIM111-34 Wolfson 2046 William Jattin MoWe 12:20-1:35PM [Class Site samples](http://wjattin.github.io)
 
-### Past Assignments
-Github Setup Assignment 
+
 
 ### To do this week
 HTML/Resume Assignment
@@ -27,6 +26,7 @@ HTML/Resume Assignment
 
 ### [Week 4 - HTML Cont. (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 HTML Quiz Feb. 7 Chapters 1 - 6 [HTML Tags](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
+[HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
 ### [Week 5 - CSS (Feb 12th- 15th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 

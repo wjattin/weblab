@@ -26,6 +26,32 @@ HTML/Resume Assignment
 
 ### [Week 4 - HTML Cont. (Feb 5th-8th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
+HTML/Resume Assignment
+
+    Your name, at the top of the page as an h1 heading.
+    Use header tags for all section heads
+    A paragraph about yourself
+    Add a photograph of yourself
+    Add Work Experience
+    A list of hobbies or interest displayed as an HTML ordered or unordered list.
+    If you do not have a resume look at examples to format and have the right information.
+
+Must haves
+
+    Proper html document setup (10 Points)
+    Use meta author and description tags (10 Points)
+    Using heading tags for your different sections (10 Points)
+    Add a comment (5 Points)
+    address tag (You can use a fake or school address) (5 Points)
+    Create a table (10 Points)
+    ordered or unordered list (10 Points)
+    2 links (a tags) (10 Points)
+    2 italics or bold tags (10 Points)
+    Atleast one image (5 Points)
+    Resume Styling (5 Points)
+
+Create a resume folder. Place an index.html file in the folder. Then place your code in that file. Create an images folder in your resume folder. When you are finished, place your resume folder in your ftp hw folder. Please link your folder on the index.html file in your hw folder.
+
 HTML Quiz Feb. 7 Chapters 1 - 6 [HTML Tags](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
 Homework [HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
@@ -53,4 +79,3 @@ Homework [HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0
 ### [Week 15 - Final Project Lab (Apr 23th – 26th)]()
 
 # Resources
-

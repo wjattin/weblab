@@ -30,7 +30,7 @@ HTML Quiz Feb. 7 Chapters 1 - 6 [HTML Tags](https://github.com/UMInteractive/Web
 
 Homework [HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
 
-###HTML/Resume Assignment
+### HTML/Resume Assignment
 
     Your name, at the top of the page as an h1 heading.
     Use header tags for all section heads
@@ -40,7 +40,7 @@ Homework [HTML/Resume Assignment](https://github.com/UMInteractive/Weblab/wiki/0
     A list of hobbies or interest displayed as an HTML ordered or unordered list.
     If you do not have a resume look at examples to format and have the right information.
 
-###Must haves
+### Must haves
 
     Proper html document setup (10 Points)
     Use meta author and description tags (10 Points)
@@ -58,7 +58,7 @@ Create a resume folder. Place an index.html file in the folder. Then place your 
 
 ### [Week 5 - CSS (Feb 12th- 15th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 
-HTML/CSS Assignment
+### HTML/CSS Assignment
 
 Style your Resume using CSS styling elements
 

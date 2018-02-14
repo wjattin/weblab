@@ -60,6 +60,8 @@ Create a resume folder. Place an index.html file in the folder. Then place your 
 
 ### HTML/CSS Assignment
 
+### Important! Review Ch 4 (Pages 80 - 84) 
+
 Style your Resume using CSS styling elements
 
     Create 2 links

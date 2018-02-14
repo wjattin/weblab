@@ -60,7 +60,7 @@ Create a resume folder. Place an index.html file in the folder. Then place your 
 
 ### HTML/CSS Assignment
 
-### Important! Review Ch 4 (Pages 80 - 84) and CH 8 (Pages 189 - 190)
+### Important! Review Ch 4 (Pages 80 - 84) and Ch 8 (Pages 189 - 190)
 
 ## CSS Chapters Ch 10 - 12
 

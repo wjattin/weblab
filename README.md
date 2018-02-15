@@ -70,7 +70,7 @@ Style your Resume using CSS styling elements
     Set the color of the links and remove the underline. - 10 points
     Style :hover effect. - 10 points
     Use one or two custom fonts - 10 points
-    Make sure you use an external stylesheet using the tag. - 10 Points
+    Make sure you use an external stylesheet using the <link> tag. - 10 Points
     Style 2 elements (ie a, p, b, address, etc) - 10 points
     Create and use 2 id - 20 points
     Create and use 5 classes, use the classes more than once - 25 points

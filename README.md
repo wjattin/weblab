@@ -41,13 +41,9 @@
 ### [Week 14 – Final Project Lab (Nov 26th – 29th)]()
 
 ### [Finals - Dec 6th-12th](https://github.com/UMInteractive/Weblab/wiki/0-Assignments)
-CIM111-J - Eliot Rodriguez Dec 12th 5:00-7:30PM
 
 CIM111-Q - William Jattin  Dec 6th 2:00-4:30PM
 
-CIM111-R - Zevensuy Rodriguez Dec 11th 5:00-730PM
-
-CIM111-S - Zevensuy Rodriguez Dec 11th 2:00-4:30PM
 
 # Resources
 

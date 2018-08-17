@@ -1,4 +1,4 @@
-# Weblab - Spring 2018
+# Weblab - Fall 2018
 
 ## This the main repository for CIM111 courses
 

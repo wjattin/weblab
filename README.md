@@ -15,6 +15,7 @@
 
 ### [Week 3 - Introduction to HTML (Sept 3rd-6th)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
 
+* Read Chapters 1-5
 #### Sept 3rd Labor Day
 
 ### [Week 4 - HTML Cont. and CSS (Sept 10th-13th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)

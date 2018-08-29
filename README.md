@@ -4,6 +4,9 @@
 
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
+# Please visit the [Samples Page](https://wjattin.github.io) for class examples
+
+
 ## Calendar
 
 ### [Week 1 - Introduction to Web Aug 20th-23rd ](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)

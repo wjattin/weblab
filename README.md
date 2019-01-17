@@ -1,9 +1,10 @@
 # Weblab - Spring 2019
 
 ### Instructor William Jattin
-## Office Hours: Appointment Only Mon & Fri 3:30 - 4:00  / Wed 4:30 - 5:00
-## Office Location: Newman Alumni Center 6200 San Amaro Dr 4th Floor
-  
+### Office Hours: By Appointment
+### Office: Mon & Fri 3:30 - 4:00 Newman Alumni Center 6200 San Amaro Dr 4th Floor
+### School of Communication Wed 4:30 - 5:00
+
 # Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
 # Please visit the [Samples Page](https://wjattin.github.io) for class examples
